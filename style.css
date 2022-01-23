@@ -1,0 +1,40 @@
+/******google font******/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@700&family=Roboto:wght@500&display=swap');
+
+
+/********common css********/
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/***********navbar area*************/
+ span{
+    color: #FA804C;
+}
+
+.head{
+    background-color:aqua;
+}
+.text h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    color: #363958;
+
+}
+.btn {
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+     border-radius: 10px;
+     color: aliceblue;
+
+}
+.imges{
+    background-color: #F1F1F1;
+    border-radius: 5px;
+    text-align: center;
+}
+.text h3{
+    color:#363958 ;
+}
+.doller{
+    color:#FA804C ;
+}
